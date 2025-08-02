@@ -1,6 +1,6 @@
 # 🐾 Tamagotchi Game
 
-Um jogo simples de Tamagotchi desenvolvido pelo Gian Dutra usando Amazon Q para o HackTown 2025 de Santa Rita do Sapucai.
+Um jogo simples de Tamagotchi desenvolvido pelo Gian Dutra usando Amazon Q Developer CLI para o HackTown 2025 de Santa Rita do Sapucai.
 
 ## 📋 Sobre o Projeto
 
