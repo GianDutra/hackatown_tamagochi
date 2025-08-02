@@ -41,6 +41,8 @@ Este é um jogo de pet virtual onde você precisa cuidar do seu Tamagotchi mante
 6. chmod +x install.sh
 7. ./install.sh
    Após isso, você deve selecionar um método de entrada. No meu caso, selecionei a opção 1, "Use for free with Builder ID"
+8. q login
+9. q chat
    
 
 ## 🛠️ Requisitos
@@ -55,10 +57,6 @@ Este é um jogo de pet virtual onde você precisa cuidar do seu Tamagotchi mante
 - Emojis que mudam baseado no estado do pet
 - Loop de jogo automático com atualizações a cada 5 segundos
 - Sistema de cores para indicar níveis críticos
-
-## prompt usado
-
-/editor create a simple tamagotchi game using tkinter
 
 
 ## 👨‍💻 Desenvolvedor
