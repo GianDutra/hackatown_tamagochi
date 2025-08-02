@@ -8,10 +8,10 @@ Este é um jogo de pet virtual onde você precisa cuidar do seu Tamagotchi mante
 
 ## 📸 Screenshots
 
-![Pet Feliz](image2.png)
-![Pet Com Fome](image3.jpg)
-![Pet Normal](image4.png)
-![Game Over](image5.png)
+![Pet Feliz](image1.jpg)
+![Pet Com Fome](image2.png)
+![Pet Normal](image3.jpg)
+![Game Over](image4.png)
 
 ## 🎮 Como Jogar
 
