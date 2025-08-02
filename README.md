@@ -1,6 +1,6 @@
 # 🐾 Tamagotchi Game
 
-Um jogo simples de Tamagotchi desenvolvido em Python usando tkinter.
+Um jogo simples de Tamagotchi desenvolvido pelo Gian Dutra usando Amazon Q para o HackTown 2025 de Santa Rita do Sapucai.
 
 ## 📋 Sobre o Projeto
 
@@ -8,11 +8,11 @@ Este é um jogo de pet virtual onde você precisa cuidar do seu Tamagotchi mante
 
 ## 📸 Screenshots
 
-![Tela Inicial](images/image1.png)
-![Jogando](images/image2.png)
-![Pet Feliz](images/image3.png)
-![Pet Doente](images/image4.png)
-![Game Over](images/image5.png)
+![Resposta do Prompt](image1.png)
+![Pet Feliz](image2.png)
+![Pet Com Fome](image3.jpg)
+![Pet Normal](image4.png)
+![Game Over](image5.png)
 
 ## 🎮 Como Jogar
 
