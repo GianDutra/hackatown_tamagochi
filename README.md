@@ -8,7 +8,6 @@ Este é um jogo de pet virtual onde você precisa cuidar do seu Tamagotchi mante
 
 ## 📸 Screenshots
 
-![Resposta do Prompt](image1.png)
 ![Pet Feliz](image2.png)
 ![Pet Com Fome](image3.jpg)
 ![Pet Normal](image4.png)
@@ -44,6 +43,11 @@ Este é um jogo de pet virtual onde você precisa cuidar do seu Tamagotchi mante
 - Emojis que mudam baseado no estado do pet
 - Loop de jogo automático com atualizações a cada 5 segundos
 - Sistema de cores para indicar níveis críticos
+
+## prompt usado
+
+/editor create a simple tamagotchi game using tkinter
+
 
 ## 👨‍💻 Desenvolvedor
 
