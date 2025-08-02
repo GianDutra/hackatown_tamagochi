@@ -31,6 +31,18 @@ Este é um jogo de pet virtual onde você precisa cuidar do seu Tamagotchi mante
 
 4. **Game Over**: O pet morre se qualquer estatística chegar a 0%
 
+## 🎮 Como Instalar Amazon Q Developer CLI no Windows
+
+1. Execute o comando no cmd como adm: "wsl --install"  (Obs: é necessário ter o subsistema linux para windows)
+2. sudo apt install unzip
+3. curl --proto '=https' --tlsv1.2 -sSf https://desktop-release.codewh isperer.us-east-1.amazonaws.com/latest/q-x86_64-linux-musl.zip -o q.zip
+4. unzip q.zip
+5. cd q/
+6. chmod +x install.sh
+7. ./install.sh
+   Após isso, você deve selecionar um método de entrada. No meu caso, selecionei a opção 1, "Use for free with Builder ID"
+   
+
 ## 🛠️ Requisitos
 
 - Python 3.x
